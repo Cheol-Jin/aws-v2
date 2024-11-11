@@ -21,6 +21,6 @@ public class HelloController {
         }
 
         //철진
-        return "<h1>aws v2</h1>";
+        return "<h1>aws v2 업데이트 된 버전</h1>";
     }
 }
