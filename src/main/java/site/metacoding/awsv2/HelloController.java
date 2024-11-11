@@ -19,7 +19,8 @@ public class HelloController {
         }else if(number == 0){ // warn 로그
             log.warn("/aws/v2 이 호출되었어요. warn 로그 #####################################");
         }
-        
+
+        //철진
         return "<h1>aws v2</h1>";
     }
 }
